@@ -1,0 +1,111 @@
+.card-body {
+    background: #d9f6d5 !important;
+}
+
+a {
+    cursor: pointer;
+}
+
+.form-valid-error {
+    display: block;
+    width: 100%;
+    color: #ff0000;
+}
+
+.access-img {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.access-img img {
+    margin: auto;
+    width: 500px;
+}
+
+.sm-btn {
+    width: 100px !important;
+}
+
+.sm-img {
+    width: 100px !important;
+    height: 50px;
+    object-fit: cover;
+}
+
+
+
+
+
+.elevation-3 {
+    box-shadow: 0 0 0 rgba(0,0,0,0),0 0 0 rgba(0,0,0,.23)!important;
+}
+
+.img-circle {
+    border-radius: 0% !important;
+}
+
+.brand-link .brand-image {
+     float: none !important;
+     max-height: none !important; 
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+    background: linear-gradient(to right, #1C5913, #46a139) !important;
+}
+.nav-pills:hover .nav-link:hover, .nav-pills:hover .show>.nav-link:hover {
+    color: #fff !important;
+    background: linear-gradient(to right, #1C5913, #46a139) !important;
+}
+
+.page-item.active .page-link {
+    z-index: 3 !important;
+    color: #fff !important;
+    background: linear-gradient(to right, #1C5913, #46a139) !important;
+    border: none !important;
+}
+
+.buttton-btn-sub {
+    color: #fff !important;
+    background: linear-gradient(to right, #1C5913, #46a139) !important;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background: linear-gradient(to right, #1C5913, #46a139) !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #b4edab !important;
+}
+
+.info {
+    background: -webkit-linear-gradient(#1C5913, #46a139) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    /* font-size: 27px; */
+}
+
+.footer-link {
+    background: -webkit-linear-gradient(#1C5913, #46a139) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
+a {
+    color: #46a139 !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.content-wrapper {
+    background: #ecfbea !important;
+}
+
+.back-color {
+    color: #fff !important;
+    background: #ecfbea !important;
+}
+

@@ -1,0 +1,4 @@
+
+Format.php & Rest_ctrl.php -> libraries folder
+rest.php -> config folder
+lang.php -> languages-english folder
